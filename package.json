@@ -1,0 +1,1 @@
+{"name":"emoji-picker","version":"1.0.0","scripts":{"build":"weweb build","serve":"weweb serve"},"devDependencies":{},"dependencies":{"emoji-mart":"^5.5.2"}}
